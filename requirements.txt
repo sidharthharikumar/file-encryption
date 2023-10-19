@@ -1,0 +1,6 @@
+mysql-connector
+pycryptodome
+tqdm
+socket
+os
+flask
